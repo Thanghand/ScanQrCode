@@ -5,8 +5,4 @@ package com.chuongnguyen.scanqrcode.util;
  */
 public class ContantVariables {
     public static String KEY_RESULT = "KeyRuslt";
-    public static String NAME ="Thang Cao";
-    public static String PASSWORD = "1321321";
-    public static String HELLO = "Hello";
-    public static String STATUS = "HELLo ThNG cao";
 }

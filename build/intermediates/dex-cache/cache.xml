@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/caothang/Desktop/QrCode/ScanQrCode/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/caothang/Desktop/QrCode/ScanQrCode/app/build/intermediates/pre-dexed/debug/classes-eaa3e36417fde9943ca45b7b258bd65b23c5075d.jar" />
+    </item>
+    <item
+        jar="/Users/caothang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/caothang/Desktop/QrCode/ScanQrCode/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-0c93270910fe29132a4a2537750ac3f8078ede69.jar" />
+    </item>
+    <item
+        jar="/Users/caothang/Desktop/QrCode/ScanQrCode/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/caothang/Desktop/QrCode/ScanQrCode/app/build/intermediates/pre-dexed/debug/classes-40f8ad9db9725eff7f67f458e12c28513f25694e.jar" />
+    </item>
+    <item
+        jar="/Users/caothang/Desktop/QrCode/ScanQrCode/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="/Users/caothang/Desktop/QrCode/ScanQrCode/app/build/intermediates/pre-dexed/debug/classes-62c76848e23c472fd7a839da726ceb6bd22b9fde.jar" />
+    </item>
+    <item
+        jar="/Users/caothang/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/caothang/Desktop/QrCode/ScanQrCode/app/build/intermediates/pre-dexed/debug/core-3.2.1-85dae00e51754c85268d626ac98cc412e30d469c.jar" />
+    </item>
+    <item
+        jar="/Users/caothang/Desktop/QrCode/ScanQrCode/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/caothang/Desktop/QrCode/ScanQrCode/app/build/intermediates/pre-dexed/debug/classes-3dbf0cd3e4ba312042b91a4d2343b31fa4b0d824.jar" />
+    </item>
+    <item
+        jar="/Users/caothang/Desktop/QrCode/ScanQrCode/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/caothang/Desktop/QrCode/ScanQrCode/app/build/intermediates/pre-dexed/debug/classes-92929f6628f01d2b7d4348496e6eb97498c923c5.jar" />
+    </item>
+    <item
+        jar="/Users/caothang/Desktop/QrCode/ScanQrCode/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zxing/1.8.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
+        <dex dex="/Users/caothang/Desktop/QrCode/ScanQrCode/app/build/intermediates/pre-dexed/debug/classes-e6ab8338ddebb4f09d47de8ef3c57ebdc0171659.jar" />
+    </item>
+    <item
+        jar="/Users/caothang/Desktop/QrCode/ScanQrCode/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/caothang/Desktop/QrCode/ScanQrCode/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-5e2e5edc8ae50d75644f470ba73a678a00f8ee41.jar" />
+    </item>
+
+</items>
